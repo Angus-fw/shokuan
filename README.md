@@ -24,6 +24,12 @@
 - 📊 收款金额加粗显示
 - ⏰ 显示收款时间
 
+## 应用截图
+
+### 设置界面
+
+![设置界面](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Flutter%20payment%20app%20settings%20screen%20with%20font%20size%20slider%20and%20battery%20optimization%20settings%2C%20Chinese%20interface&image_size=landscape_16_9)
+
 ## 安装说明
 
 ### APK安装
